@@ -1,16 +1,9 @@
-# YuukiGame-Web
-This is for yuuki server for web purposes.
+# FUKKU
 
 ## Getting Started
-
 First, run development server:
 
 ```bash
-npm update
-npm run dev
+npm run 
 ```
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## Announcement Post
-
-TODO:
+Open [http://localhost:3000](http://localhost:3000)
